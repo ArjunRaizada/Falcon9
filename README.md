@@ -63,11 +63,13 @@ Hyperparameters were optimized using Grid Search with 10-fold cross-validation.<
 
 ## Results
 
-Model	Validation Accuracy	Test Accuracy<br>
-Logistic Regression	~82.2%	~94.4%<br>
-Support Vector Machine	~82.2%	~94.4%<br>
-Decision Tree	~88.9%	~88.9%<br>
-K-Nearest Neighbors	~84.4%	~94.4%<br>
+| Model                   | Validation Accuracy | Test Accuracy |
+|-------------------------|---------------------|---------------|
+| Logistic Regression      | ~82.2%              | ~94.4%        |
+| Support Vector Machine    | ~82.2%              | ~94.4%        |
+| Decision Tree            | ~88.9%              | ~88.9%        |
+| K-Nearest Neighbors      | ~84.4%              | ~94.4%        |
+
 Confusion matrices were plotted for each model to visualize their performance.<br>
 
 ## Conclusion
