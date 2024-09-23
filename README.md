@@ -55,11 +55,11 @@ scikit-learn
 
 The following models were trained and evaluated:
 
-Logistic Regression
-Support Vector Machine (SVM)
-Decision Tree
-K-Nearest Neighbors (KNN)
-Hyperparameters were optimized using Grid Search with 10-fold cross-validation.
+Logistic Regression<br>
+Support Vector Machine (SVM)<br>
+Decision Tree<br>
+K-Nearest Neighbors (KNN)<br>
+Hyperparameters were optimized using Grid Search with 10-fold cross-validation.<br>
 
 ## Results
 
