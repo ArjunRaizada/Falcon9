@@ -44,7 +44,7 @@ scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/ArjunRaizada/Falcon9/)
+   git clone https://github.com/ArjunRaizada/Falcon9/
 
 2. Open a Jupyter Notebook or Python script and run the provided code.
 3. Ensure the data is loaded properly and proceed with the model training and evaluation steps.
