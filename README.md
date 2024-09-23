@@ -32,11 +32,11 @@ Both datasets can be found in the following URLs:
 
 To run the project, you'll need the following Python libraries:
 
-numpy 
-pandas 
-seaborn 
-matplotlib 
-scikit-learn
+1. numpy 
+2. pandas 
+3. seaborn 
+4. matplotlib 
+5. scikit-learn
 
 
 
